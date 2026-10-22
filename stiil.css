@@ -90,6 +90,21 @@ figcaption{font-size:13px;color:var(--hall);padding:8px 4px 0}
 .vaikekingid div{background:var(--kaart);border:1px solid var(--joon);border-radius:16px;padding:14px 18px;font-size:15px;color:var(--hall)}
 .vaikekingid b{color:var(--tekst);font-size:18px;margin-right:6px}
 @media (max-width:720px){.eesmargid,.vaikekingid{grid-template-columns:1fr}}
+.tooted{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:8px}
+.toode{background:var(--kaart);border:1px solid var(--joon);border-radius:var(--raadius);overflow:hidden;display:flex;flex-direction:column}
+.toode-karp{border:2px solid var(--punane)}
+.toode-pilt{aspect-ratio:4/3;background:#efe9e1;display:grid;place-items:center;overflow:hidden}
+.toode-pilt picture{display:block;width:100%;height:100%}
+.toode-pilt img{width:100%;height:100%;object-fit:cover}
+.toode-pilt svg{width:46%;height:auto}
+.toode-sisu{padding:20px 22px 22px;display:flex;flex-direction:column;flex:1}
+.toode .silt{display:inline-block;align-self:flex-start;background:var(--punane);color:#fff;font-size:13px;font-weight:700;padding:3px 10px;border-radius:999px;margin-bottom:10px}
+.toode .summa{font-size:32px;font-weight:800;letter-spacing:-.02em;margin:2px 0 6px}
+.toode p{color:var(--hall);font-size:15px;margin:0 0 8px}
+.toode .lisa{font-size:14px}
+.toode .ruum{flex:1;min-height:10px}
+.toode .nupp{justify-content:center}
+@media (max-width:860px){.tooted{grid-template-columns:1fr}}
 .kkk details{background:var(--kaart);border:1px solid var(--joon);border-radius:14px;padding:0 18px;margin:0 0 10px}
 .kkk summary{cursor:pointer;font-weight:600;padding:16px 0;list-style:none;display:flex;justify-content:space-between;gap:12px}
 .kkk summary::-webkit-details-marker{display:none}
