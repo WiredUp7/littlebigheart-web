@@ -2,8 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url><loc>https://littlebigheart.store/</loc><lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/"/></url>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/></url>
   <url><loc>https://littlebigheart.store/en/</loc><lastmod>2026-10-23</lastmod>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/"/></url>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/></url>
+  <url><loc>https://littlebigheart.store/tingimused/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/></url>
+  <url><loc>https://littlebigheart.store/en/terms/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/></url>
+  <url><loc>https://littlebigheart.store/kasutustingimused/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/></url>
+  <url><loc>https://littlebigheart.store/en/terms-of-use/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/></url>
+  <url><loc>https://littlebigheart.store/taganemine/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/></url>
+  <url><loc>https://littlebigheart.store/en/withdrawal/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/></url>
 </urlset>
