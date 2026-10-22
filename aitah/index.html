@@ -69,6 +69,54 @@
         <a class="btn btn-link" href="/en/withdrawal/">Withdraw from contract</a>
       </div>
     </div>
+    <div lang="fi" data-keel="fi" hidden>
+      <h2 class="tanu-en">Kiitos! Tilauksesi on vastaanotettu</h2>
+      <p class="lead lead-s">Stripe on lähettänyt maksukuittisi sähköpostiisi. Lähetämme rasiasi viimeistään 9. helmikuuta 2027 valitsemaasi Omnivan pakettiautomaattiin ja ilmoitamme sähköpostitse, kun se on matkalla. Kysymykset: <a href="mailto:info@look360.eu">info@look360.eu</a>.</p>
+      <div class="btns">
+        <a class="btn btn-ghost" href="/fi/">Etusivu</a>
+        <a class="btn btn-link" href="/fi/withdrawal/">Peruuta sopimus tästä</a>
+      </div>
+    </div>
+    <div lang="lv" data-keel="lv" hidden>
+      <h2 class="tanu-en">Paldies! Jūsu pasūtījums ir saņemts</h2>
+      <p class="lead lead-s">Stripe ir nosūtījis maksājuma kvīti uz jūsu e-pastu. Kastīti nosūtīsim ne vēlāk kā līdz 2027. gada 9. februārim uz jūsu izvēlēto Omniva pakomātu un par nosūtīšanu paziņosim pa e-pastu. Jautājumi: <a href="mailto:info@look360.eu">info@look360.eu</a>.</p>
+      <div class="btns">
+        <a class="btn btn-ghost" href="/lv/">Sākums</a>
+        <a class="btn btn-link" href="/lv/withdrawal/">Atteikties no līguma</a>
+      </div>
+    </div>
+    <div lang="lt" data-keel="lt" hidden>
+      <h2 class="tanu-en">Ačiū! Jūsų užsakymas gautas</h2>
+      <p class="lead lead-s">Stripe išsiuntė mokėjimo kvitą į jūsų el. paštą. Dėžutę išsiųsime ne vėliau kaip 2027 m. vasario 9 d. į jūsų pasirinktą Omniva paštomatą ir el. paštu pranešime, kai ji bus pakeliui. Klausimai: <a href="mailto:info@look360.eu">info@look360.eu</a>.</p>
+      <div class="btns">
+        <a class="btn btn-ghost" href="/lt/">Į pradžią</a>
+        <a class="btn btn-link" href="/lt/withdrawal/">Atsisakyti sutarties</a>
+      </div>
+    </div>
+    <div lang="sv" data-keel="sv" hidden>
+      <h2 class="tanu-en">Tack! Din beställning har tagits emot</h2>
+      <p class="lead lead-s">Stripe har skickat ditt betalningskvitto via e-post. Vi skickar din låda senast den 9 februari 2027 till Omnivas paketautomat som du valde och meddelar dig via e-post när den är på väg. Frågor: <a href="mailto:info@look360.eu">info@look360.eu</a>.</p>
+      <div class="btns">
+        <a class="btn btn-ghost" href="/sv/">Hem</a>
+        <a class="btn btn-link" href="/sv/withdrawal/">Ångra avtalet</a>
+      </div>
+    </div>
+    <div lang="nb" data-keel="no" hidden>
+      <h2 class="tanu-en">Takk! Vi har mottatt bestillingen din</h2>
+      <p class="lead lead-s">Stripe har sendt betalingskvitteringen til e-posten din. Vi sender esken din senest 9. februar 2027 til Omnivas pakkeautomat som du har valgt, og gir deg beskjed på e-post når den er på vei. Spørsmål: <a href="mailto:info@look360.eu">info@look360.eu</a>.</p>
+      <div class="btns">
+        <a class="btn btn-ghost" href="/no/">Forside</a>
+        <a class="btn btn-link" href="/no/withdrawal/">Angre kjøpet</a>
+      </div>
+    </div>
+    <div lang="da" data-keel="da" hidden>
+      <h2 class="tanu-en">Tak! Din ordre er modtaget</h2>
+      <p class="lead lead-s">Stripe har sendt kvitteringen for din betaling på e-mail. Vi sender din æske senest den 9. februar 2027 til Omnivas pakkeautomat, som du har valgt, og giver dig besked på e-mail, når den er på vej. Spørgsmål: <a href="mailto:info@look360.eu">info@look360.eu</a>.</p>
+      <div class="btns">
+        <a class="btn btn-ghost" href="/da/">Forside</a>
+        <a class="btn btn-link" href="/da/withdrawal/">Fortryd aftale</a>
+      </div>
+    </div>
   </div>
 </section>
 </main>
@@ -106,5 +154,9 @@
     <p class="foot-note">Osa pilte on visualiseeringud lõpptoote 3D-mudelist. Värvid ja viimistlus vastavad prototüübile.</p>
   </div>
 </footer>
+<script>(function(){var m={ru:"ru",fi:"fi",lv:"lv",lt:"lt",sv:"sv",nb:"no",nn:"no",no:"no",da:"da"};
+var l=(navigator.languages&&navigator.languages.length?navigator.languages:[navigator.language||""]);
+for(var i=0;i<l.length;i++){var c=(l[i]||"").toLowerCase().slice(0,2);if(c==="et"||c==="en")break;var k=m[c];
+if(k){var b=document.querySelector('[data-keel="'+k+'"]');if(b){b.hidden=false;var en=document.querySelector('div[lang="en-GB"]');if(en)en.hidden=true}break}}})();</script>
 </body>
 </html>

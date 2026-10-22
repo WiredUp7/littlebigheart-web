@@ -1,35 +1,355 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://littlebigheart.store/</loc><lastmod>2026-10-23</lastmod>
+  <url><loc>https://littlebigheart.store/</loc>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/></url>
-  <url><loc>https://littlebigheart.store/en/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/en/</loc>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/></url>
-  <url><loc>https://littlebigheart.store/tingimused/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/fi/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lv/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lt/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/sv/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/no/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/da/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/tingimused/</loc>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/></url>
-  <url><loc>https://littlebigheart.store/en/terms/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/en/terms/</loc>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/></url>
-  <url><loc>https://littlebigheart.store/kasutustingimused/</loc><lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms-of-use/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/></url>
-  <url><loc>https://littlebigheart.store/en/terms-of-use/</loc><lastmod>2026-10-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/terms-of-use/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/></url>
-  <url><loc>https://littlebigheart.store/taganemine/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/fi/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lv/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lt/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/sv/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/no/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/da/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/tingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/tingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/taganemine/</loc>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/withdrawal/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/></url>
-  <url><loc>https://littlebigheart.store/en/withdrawal/</loc><lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/en/withdrawal/</loc>
     <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://littlebigheart.store/en/withdrawal/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/></url>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/fi/withdrawal/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lv/withdrawal/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lt/withdrawal/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/sv/withdrawal/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/no/withdrawal/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/da/withdrawal/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/taganemine/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/withdrawal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/taganemine/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/kasutustingimused/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/en/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/fi/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lv/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/lt/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/sv/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/no/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
+  <url><loc>https://littlebigheart.store/da/terms-of-use/</loc>
+    <xhtml:link rel="alternate" hreflang="et" href="https://littlebigheart.store/kasutustingimused/"/>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://littlebigheart.store/en/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://littlebigheart.store/fi/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://littlebigheart.store/lv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="lt" href="https://littlebigheart.store/lt/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://littlebigheart.store/sv/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="nb" href="https://littlebigheart.store/no/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://littlebigheart.store/da/terms-of-use/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://littlebigheart.store/kasutustingimused/"/>
+  </url>
 </urlset>
