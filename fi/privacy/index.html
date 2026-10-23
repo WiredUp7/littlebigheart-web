@@ -70,7 +70,7 @@
 <article class="legal">
   <header class="page-h">
     <h1>Tietosuojaseloste</h1>
-    <p class="lead">Voimassa 21. lokakuuta 2026 alkaen, päivitetty 23. lokakuuta 2026 (verkkokauppa littlebigheart.store, sovelluksen kieli, ilmoitussähköpostit)</p>
+    <p class="lead">Voimassa 21. lokakuuta 2026 alkaen, päivitetty 23. lokakuuta 2026 (verkkokauppa littlebigheart.store, sovelluksen kieli, ilmoitussähköpostit, varmuuskopiot)</p>
   </header>
   <nav class="sisukord" aria-label="Sisällys">
     <ul role="list">
@@ -167,6 +167,7 @@
       <li>Rasian omistaja ja rasian lähellä olevat henkilöt näkevät rasiaan lähetetyt viestit. Palvelun tarkoitus on juuri tämä.</li>
       <li>Jos pyydät kutsua, rasian omistaja näkee nimesi, sähköpostiosoitteesi ja viestisi (kohta 2.4).</li>
       <li>Palvelin sijaitsee Virossa, ja me ylläpidämme sitä. Yhteys palvelimeen kulkee Tailscale Inc. ja Cloudflare Inc. -yhtiöiden palvelujen kautta. <span class="nb">Cloudflare-palvelun</span> kautta kulkeva yhteys (app.littlebigheart.store) avataan <span class="nb">Cloudflare-palvelimella</span>, jotta se voidaan välittää eteenpäin palvelimellemme; molemmat näkevät yhteyden tekniset tiedot, kuten <span class="nb">IP-osoitteen</span> ja ajan.</li>
+      <li>Teemme palvelimen tiedoista (tilit, viestit, kuvat ja videot, verkkokaupan tilaukset) varmuuskopion joka yö. Varmuuskopio salataan avaimellamme (<span class="nb">AES-256</span>) ennen kuin se lähtee palvelimelta, ja sitä säilytetään Oraclen pilvipalvelun (Oracle Cloud Infrastructure) datakeskuksessa Tukholmassa (Ruotsi). Oracle säilyttää vain salatun tiedoston eikä näe sen sisältöä.</li>
       <li>Verkkokaupan maksut käsittelee Stripe (Stripe Payments Europe Ltd, Irlanti), joka saa tilauksen ja maksun tiedot (kohta 2.9). Stripe käsittelee tietoja myös itsenäisenä rekisterinpitäjänä, esimerkiksi petosten estämiseksi.</li>
       <li>Paketin toimittamista varten luovutamme nimesi, puhelinnumerosi, sähköpostiosoitteesi ja pakettiautomaatin Omnivalle (AS Eesti Post).</li>
       <li>Verkkosivuston käyntejä koskevat tekniset tiedot näkee sivuston isännöintipalvelun tarjoaja GitHub Inc. (kohta 2.11).</li>
@@ -192,6 +193,7 @@
       <tr><td>Tilauksen ja maksun tiedot</td><td>7 vuotta tilikauden päättymisestä (Viron kirjanpitolaki)</td></tr>
       <tr><td>Peruuttamisilmoitukset</td><td>3 vuotta ilmoituksen vastaanottamisesta (mahdollisten vaatimusten vanhentumisaika)</td></tr>
       <tr><td>Palvelimen loki (<span class="nb">IP-osoite</span>)</td><td>90 päivää</td></tr>
+      <tr><td>Varmuuskopiot (salatut)</td><td>14 päivää; jos uusia varmuuskopioita ei sillä välin tehdä, 7 viimeisintä säilytetään. Poistetut tiedot voivat säilyä varmuuskopioissa tämän ajan.</td></tr>
       </table></div>
       <p>Rasian muistikortille jo tallennetut kuvat säilyvät rasiassa, kunnes vastaanottaja poistaa ne sieltä tai palauttaa rasian tehdasasetuksiin.</p>
     </section>

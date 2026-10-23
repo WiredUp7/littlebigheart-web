@@ -70,7 +70,7 @@
 <article class="legal">
   <header class="page-h">
     <h1>Personvernerklæring</h1>
-    <p class="lead">Gjelder fra 21. oktober 2026, oppdatert 23. oktober 2026 (nettbutikken littlebigheart.store, appspråk, <span class="nb">e-postvarsler</span>)</p>
+    <p class="lead">Gjelder fra 21. oktober 2026, oppdatert 23. oktober 2026 (nettbutikken littlebigheart.store, appspråk, <span class="nb">e-postvarsler</span>, sikkerhetskopier)</p>
   </header>
   <nav class="sisukord" aria-label="Innhold">
     <ul role="list">
@@ -167,6 +167,7 @@
       <li>Eieren av esken og personene i nærheten av esken ser meldingene som sendes til den. Det er det tjenesten er til for.</li>
       <li>Hvis du ber om en invitasjon, ser eieren av esken navnet, <span class="nb">e-postadressen</span> og meldingen din (punkt 2.4).</li>
       <li>Serveren ligger i Estland og drives av oss. Tilkoblingen til serveren går via Tailscale Inc. og Cloudflare Inc. En tilkobling via Cloudflare (app.littlebigheart.store) åpnes på Cloudflares server for å kunne sendes videre til serveren vår; begge ser tekniske tilkoblingsdata, for eksempel <span class="nb">IP-adressen</span> og tidspunktet.</li>
+      <li>Hver natt tar vi en sikkerhetskopi av dataene på serveren (kontoer, meldinger, bilder og videoer, bestillinger i nettbutikken). Sikkerhetskopien krypteres med nøkkelen vår (<span class="nb">AES-256</span>) før den forlater serveren, og lagres i et datasenter for Oracles skytjeneste (Oracle Cloud Infrastructure) i Stockholm (Sverige). Oracle lagrer bare den krypterte filen og kan ikke se innholdet.</li>
       <li>Betalinger i nettbutikken behandles av Stripe (Stripe Payments Europe Ltd, Irland), som mottar bestillings- og betalingsdataene (punkt 2.9). Stripe behandler også data som selvstendig behandlingsansvarlig, for eksempel for å forhindre svindel.</li>
       <li>For levering av pakken sender vi navnet, telefonnummeret, <span class="nb">e-postadressen</span> og pakkeautomaten din videre til Omniva (AS Eesti Post).</li>
       <li>Tekniske data om besøk på nettstedet er synlige for GitHub Inc., som huser nettstedet (punkt 2.11).</li>
@@ -192,6 +193,7 @@
       <tr><td>Bestillings- og betalingsdata</td><td>7 år fra utgangen av regnskapsåret (den estiske regnskapsloven)</td></tr>
       <tr><td>Angremeldinger</td><td>3 år fra mottaket (foreldelsesfrist for mulige krav)</td></tr>
       <tr><td>Serverlogg (<span class="nb">IP-adresse</span>)</td><td>90 dager</td></tr>
+      <tr><td>Sikkerhetskopier (krypterte)</td><td>14 dager; hvis det ikke tas nye sikkerhetskopier i mellomtiden, beholdes de 7 siste. Slettede data kan bli liggende i sikkerhetskopiene i denne perioden.</td></tr>
       </table></div>
       <p>Bilder som allerede er lagret på minnekortet i esken, blir liggende i esken til mottakeren sletter dem der eller tilbakestiller esken til fabrikkinnstillinger.</p>
     </section>
