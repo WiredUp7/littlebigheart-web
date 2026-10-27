@@ -184,6 +184,7 @@ p a:hover,address a:hover{color:var(--red-d)}
 .why .lab{font-size:.9375rem;font-weight:600;color:#ff8da3;margin-bottom:1rem;letter-spacing:-.005em}
 .why p.q{font-size:clamp(1.4rem,.9rem + 1.7vw,2.1rem);line-height:1.3;font-weight:600;letter-spacing:-.028em;color:#f6f3ee}
 .goals{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.goals-3 .goal.main{grid-column:1/-1}
 .goal{border:1px solid rgba(255,255,255,.18);border-radius:36px;padding:clamp(2rem,4vw,3.5rem);background:linear-gradient(165deg,rgba(255,255,255,.08),rgba(255,255,255,.02));display:flex;flex-direction:column}
 .goal .tag{display:inline-flex;align-self:flex-start;align-items:center;padding:.4rem .9rem;border-radius:999px;background:rgba(255,255,255,.12);font-size:.875rem;font-weight:600;color:#efe8de}
 .goal .num{color:#fff;margin-top:1.5rem;font-size:clamp(3.6rem,8.5vw,7rem);font-weight:800;letter-spacing:-.06em;line-height:.95;white-space:nowrap}
