@@ -147,6 +147,7 @@ p a:hover,address a:hover{color:var(--red-d)}
 .priv-grid p{color:var(--ink);font-size:clamp(1.1rem,.9rem + .6vw,1.35rem);line-height:1.4;font-weight:500;letter-spacing:-.015em}
 
 .tooted{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tooted-2{grid-template-columns:repeat(2,1fr)}
 .toode{background:var(--alt);border-radius:34px;overflow:hidden;display:flex;flex-direction:column}
 .toode-esi{background:#fff;border:2px solid var(--red-btn);box-shadow:0 30px 60px -44px rgba(207,46,80,.4)}
 .toode-pilt{position:relative;background:#e9e4dc;overflow:hidden;aspect-ratio:4/3;flex:none}
@@ -184,7 +185,12 @@ p a:hover,address a:hover{color:var(--red-d)}
 .why .lab{font-size:.9375rem;font-weight:600;color:#ff8da3;margin-bottom:1rem;letter-spacing:-.005em}
 .why p.q{font-size:clamp(1.4rem,.9rem + 1.7vw,2.1rem);line-height:1.3;font-weight:600;letter-spacing:-.028em;color:#f6f3ee}
 .goals{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
-.goals-3 .goal.main{grid-column:1/-1}
+.goals-3 .goal{grid-column:1/-1}
+.goal.feat{padding:0;flex-direction:row;overflow:hidden}
+.goal.feat .tx{flex:1 1 55%;padding:clamp(2rem,4vw,3.5rem);display:flex;flex-direction:column}
+.goal.feat .ph{flex:1 1 45%;position:relative;min-height:340px;background:#dfdfdf}
+.goal.feat .ph picture{position:absolute;inset:0;display:block}
+.goal.feat .ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}
 .goal{border:1px solid rgba(255,255,255,.18);border-radius:36px;padding:clamp(2rem,4vw,3.5rem);background:linear-gradient(165deg,rgba(255,255,255,.08),rgba(255,255,255,.02));display:flex;flex-direction:column}
 .goal .tag{display:inline-flex;align-self:flex-start;align-items:center;padding:.4rem .9rem;border-radius:999px;background:rgba(255,255,255,.12);font-size:.875rem;font-weight:600;color:#efe8de}
 .goal .num{color:#fff;margin-top:1.5rem;font-size:clamp(3.6rem,8.5vw,7rem);font-weight:800;letter-spacing:-.06em;line-height:.95;white-space:nowrap}
@@ -195,6 +201,7 @@ p a:hover,address a:hover{color:var(--red-d)}
 .dark .btns{margin-top:clamp(3rem,6vw,5rem)}
 
 .gifts{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.gifts-4 .gift.feat{grid-column:1/-1}
 .gift{position:relative;background:#fff;border-radius:34px;padding:clamp(1.75rem,3vw,2.5rem);display:flex;flex-direction:column;transition:transform .45s var(--ease),box-shadow .45s var(--ease)}
 .gift:hover{transform:translateY(-6px);box-shadow:0 30px 60px -30px rgba(43,38,32,.28)}
 .gift .top{display:flex;justify-content:space-between;align-items:center;gap:1rem;min-height:30px}
@@ -370,6 +377,7 @@ p a:hover,address a:hover{color:var(--red-d)}
   .aud{grid-template-columns:repeat(2,1fr);row-gap:2.5rem}
   .gifts{grid-template-columns:repeat(2,1fr)}
   .gift.feat{grid-column:span 2}
+  .gifts-4 .gift:first-child{grid-column:1/-1}
   .tooted{grid-template-columns:1fr}
   .toode{flex-direction:row}
   .toode-pilt{flex:0 0 42%;aspect-ratio:auto;min-height:280px}
@@ -407,6 +415,9 @@ p a:hover,address a:hover{color:var(--red-d)}
   .gift.feat{grid-column:auto;flex-direction:column-reverse}
   .gift.feat .ph{min-height:0;aspect-ratio:3/2;flex:none}
   .gift.feat .tx{flex:none}
+  .goal.feat{flex-direction:column-reverse}
+  .goal.feat .ph{min-height:0;aspect-ratio:1/1;flex:none}
+  .goal.feat .tx{flex:none}
   .gift .pr{font-size:4rem}
   .toode{flex-direction:column}
   .toode-pilt{flex:none;aspect-ratio:4/3;min-height:0}
