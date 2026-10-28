@@ -6,7 +6,7 @@
 - Product: little big heart (Estonian name Südamekarp), model LBH-1. 3.5-inch touchscreen, 2.4 GHz Wi-Fi, USB-C power adapter and cable included. No camera, no microphone, no battery.
 - Features: messages and photos, read receipt, a heart sent back by tapping, scheduled messages, paired boxes, night mode, memories, gift card for the first message.
 - Price: €129 retail after the campaign, including VAT and delivery to an Omniva parcel locker in Estonia. During the crowdfunding campaign the box is only available on Indiegogo; boxes ship by 9 February 2027.
-- Crowdfunding on Indiegogo from 31 October to 29 December 2026: the first 100 boxes €65, then €79; two linked boxes €149 (prices including VAT). Delivery across Europe, shipping is charged separately. Goal €5,000; stretch goals €8,000 gift packaging and €12,000 iPhone app. https://www.indiegogo.com/projects/littlebigheart/little-big-heart
+- Crowdfunding on Indiegogo from 31 October to 29 December 2026: the first 100 boxes €65, then €85; two linked boxes €169 (prices including VAT). Delivery across Europe, shipping is charged separately. Goal €5,000; stretch goals €8,000 gift packaging and €12,000 iPhone app. https://www.indiegogo.com/projects/littlebigheart/little-big-heart
 - App: works in the phone's browser and on Android via Google Play (https://play.google.com/store/apps/details?id=ee.littlebigheart.app). Sign in: https://app.littlebigheart.store/app/
 - Languages (website and app): Estonian, English, Russian, Finnish, Latvian, Lithuanian, Swedish, Norwegian, Danish.
 - Privacy: messages travel through a server in the European Union and only people invited by the box owner can see them.

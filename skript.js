@@ -74,6 +74,74 @@
     });
   });
 
+  // Kampaania loendur: enne starti aeg alguseni, kampaania ajal lõpuni, pärast lõppu peidus.
+  // Kuupäev ja ühikud tulevad brauseri Intl-ist lehe keeles ja külastaja ajavööndis.
+  var cds = d.querySelectorAll('.cd[data-start]');
+  if (cds.length) {
+    var lang = root.getAttribute('lang') || 'et';
+    var oma = { et: { day: ['päev', 'päeva'] }, sv: { day: ['dag', 'dagar'] }, nb: { day: ['dag', 'dager'] } };
+    var yksused = ['day', 'hour', 'minute', 'second'];
+
+    var nimi = function (n, u) {
+      var o = oma[lang.slice(0, 2) === 'nb' ? 'nb' : lang.slice(0, 2)];
+      if (o && o[u]) return o[u][n === 1 ? 0 : 1];
+      try {
+        return new Intl.NumberFormat(lang, { style: 'unit', unit: u, unitDisplay: 'long' }).formatToParts(n)
+          .filter(function (p) { return p.type === 'unit'; }).map(function (p) { return p.value; }).join('');
+      } catch (e) {
+        return { day: 'd', hour: 'h', minute: 'min', second: 's' }[u];
+      }
+    };
+
+    var kuup = function (t) {
+      try {
+        return new Intl.DateTimeFormat(lang, { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' }).format(t);
+      } catch (e) {
+        return new Date(t).toLocaleString();
+      }
+    };
+
+    var joonista = function (cd) {
+      var algus = Date.parse(cd.getAttribute('data-start'));
+      var lopp = Date.parse(cd.getAttribute('data-end'));
+      var nyyd = Date.now();
+      if (!(nyyd < lopp)) {
+        cd.hidden = true;
+        return false;
+      }
+      var enne = nyyd < algus;
+      var jaak = Math.max(0, Math.floor(((enne ? algus : lopp) - nyyd) / 1000));
+      var arvud = [Math.floor(jaak / 86400), Math.floor(jaak / 3600) % 24, Math.floor(jaak / 60) % 60, jaak % 60];
+      cd.classList.toggle('kaib', !enne);
+      cd.querySelector('.cd-t').textContent = cd.getAttribute(enne ? 'data-enne' : 'data-kaib');
+      cd.querySelector('.cd-aeg').textContent = enne ? kuup(algus) : '';
+      cd.querySelector('.cd-s').textContent = cd.getAttribute(enne ? 'data-jalgi' : 'data-lopuni');
+      var n = cd.querySelector('.cd-n');
+      if (!n.children.length) {
+        yksused.forEach(function () {
+          var u = d.createElement('span');
+          u.className = 'cd-u';
+          u.appendChild(d.createElement('b'));
+          u.appendChild(d.createElement('span'));
+          n.appendChild(u);
+        });
+      }
+      each(n.children, function (u, i) {
+        u.firstChild.textContent = i ? (arvud[i] < 10 ? '0' : '') + arvud[i] : String(arvud[i]);
+        u.lastChild.textContent = nimi(arvud[i], yksused[i]);
+      });
+      cd.hidden = false;
+      return true;
+    };
+
+    var tiksu = function () {
+      var elus = false;
+      each(cds, function (cd) { if (joonista(cd)) elus = true; });
+      if (elus) setTimeout(tiksu, 1000 - (Date.now() % 1000));
+    };
+    tiksu();
+  }
+
   // Sissekerimine
   var els = d.querySelectorAll('.rev, .words');
   if (!('IntersectionObserver' in window)) {

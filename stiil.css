@@ -98,6 +98,21 @@ p a:hover,address a:hover{color:var(--red-d)}
 .hind-sel{margin-top:.75rem;color:var(--mute);font-size:1rem;line-height:1.5}
 .hero .btns{margin-top:1.75rem}
 .viide{margin:1.25rem auto 0;color:var(--mute);font-size:.9375rem;max-width:42rem;text-wrap:balance}
+.cd{margin:clamp(1.75rem,3vw,2.25rem) auto 0;display:flex;flex-direction:column;align-items:center;gap:1rem;text-align:center}
+.cd[hidden]{display:none}
+.cd-l{display:inline-flex;align-items:center;gap:.6rem;padding:.55rem 1.15rem;border-radius:999px;background:#fff;box-shadow:0 0 0 1px rgba(220,53,87,.28),0 10px 28px -14px rgba(220,53,87,.55);font-weight:600;font-size:1rem;letter-spacing:-.012em;line-height:1.35;text-wrap:balance}
+.cd-aeg:not(:empty)::before{content:"\00a0· "}
+.cd-n{display:flex;gap:.6rem;justify-content:center}
+.cd-u{min-width:5rem;padding:.75rem .6rem .6rem;border-radius:18px;background:#fff;box-shadow:inset 0 0 0 1px rgba(43,38,32,.1),0 12px 30px -20px rgba(43,38,32,.45)}
+.cd-u b{display:block;font-size:clamp(2rem,4.6vw,2.75rem);font-weight:800;letter-spacing:-.045em;line-height:1;font-variant-numeric:tabular-nums}
+.cd-u span{display:block;margin-top:.4rem;font-size:.8125rem;font-weight:500;color:var(--mute)}
+.cd-s{color:var(--mute);font-size:.9375rem;max-width:34rem;text-wrap:balance}
+.dark .cd{margin:clamp(3rem,6vw,5rem) auto 0}
+.dark .cd-l{background:rgba(255,255,255,.07);color:#fff;box-shadow:0 0 0 1px rgba(255,141,163,.4)}
+.dark .cd-u{background:rgba(255,255,255,.06);box-shadow:inset 0 0 0 1px rgba(255,255,255,.12)}
+.dark .cd-u b{color:#fff}
+.dark .cd-u span,.dark .cd-s{color:#c9c0b4}
+.dark .cd+.btns{margin-top:2rem}
 
 .tile{position:relative;border-radius:clamp(24px,3.4vw,44px);overflow:hidden;background:#e4e0da;isolation:isolate}
 .tile picture{display:block;height:100%}
@@ -439,6 +454,13 @@ p a:hover,address a:hover{color:var(--red-d)}
   .foot-top{grid-template-columns:1fr 1fr}
   .login .btns .btn{width:100%}
   .hero .btns .btn{width:100%}
+  .cd-n{gap:.4rem;width:100%}
+  .cd-u{flex:1;min-width:0;padding:.65rem .25rem .5rem;border-radius:16px}
+  .cd-u span{font-size:.75rem}
+  .cd-l{font-size:.9375rem;padding:.6rem 1.2rem}
+  .cd-aeg{display:block;font-weight:500;color:var(--mute)}
+  .cd-aeg:not(:empty)::before{content:none}
+  .dark .cd-aeg{color:#c9c0b4}
   .hero-tile{aspect-ratio:4/5}
   .lugu .tile{aspect-ratio:1/1}
   .steps-tile{aspect-ratio:1/1}
