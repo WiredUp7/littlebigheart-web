@@ -70,7 +70,7 @@
 <article class="legal">
   <header class="page-h">
     <h1>Tietosuojaseloste</h1>
-    <p class="lead">Voimassa 21. lokakuuta 2026 alkaen, päivitetty 23. lokakuuta 2026 (verkkokauppa littlebigheart.store, sovelluksen kieli, ilmoitussähköpostit, varmuuskopiot)</p>
+    <p class="lead">Voimassa 21. lokakuuta 2026 alkaen, päivitetty 30. lokakuuta 2026 (palvelimen sijainti, varmuuskopiot)</p>
   </header>
   <nav class="sisukord" aria-label="Sisällys">
     <ul role="list">
@@ -166,8 +166,8 @@
       <ul>
       <li>Rasian omistaja ja rasian lähellä olevat henkilöt näkevät rasiaan lähetetyt viestit. Palvelun tarkoitus on juuri tämä.</li>
       <li>Jos pyydät kutsua, rasian omistaja näkee nimesi, sähköpostiosoitteesi ja viestisi (kohta 2.4).</li>
-      <li>Palvelin sijaitsee Virossa, ja me ylläpidämme sitä. Yhteys palvelimeen kulkee Tailscale Inc. ja Cloudflare Inc. -yhtiöiden palvelujen kautta. <span class="nb">Cloudflare-palvelun</span> kautta kulkeva yhteys (app.littlebigheart.store) avataan <span class="nb">Cloudflare-palvelimella</span>, jotta se voidaan välittää eteenpäin palvelimellemme; molemmat näkevät yhteyden tekniset tiedot, kuten <span class="nb">IP-osoitteen</span> ja ajan.</li>
-      <li>Teemme palvelimen tiedoista (tilit, viestit, kuvat ja videot, verkkokaupan tilaukset) varmuuskopion joka yö. Varmuuskopio salataan avaimellamme (<span class="nb">AES-256</span>) ennen kuin se lähtee palvelimelta, ja sitä säilytetään Oraclen pilvipalvelun (Oracle Cloud Infrastructure) datakeskuksessa Tukholmassa (Ruotsi). Oracle säilyttää vain salatun tiedoston eikä näe sen sisältöä.</li>
+      <li>Palvelin sijaitsee Oraclen pilvipalvelun (Oracle Cloud Infrastructure) datakeskuksessa Tukholmassa (Ruotsi), ja me ylläpidämme sitä. Yhteys palvelimeen kulkee Tailscale Inc. ja Cloudflare Inc. -yhtiöiden palvelujen kautta. <span class="nb">Cloudflare-palvelun</span> kautta kulkeva yhteys (app.littlebigheart.store) avataan <span class="nb">Cloudflare-palvelimella</span>, jotta se voidaan välittää eteenpäin palvelimellemme; molemmat näkevät yhteyden tekniset tiedot, kuten <span class="nb">IP-osoitteen</span> ja ajan.</li>
+      <li>Teemme palvelimen tiedoista (tilit, viestit, kuvat ja videot, verkkokaupan tilaukset) varmuuskopion joka yö. Palvelin säilyttää viimeisten 14 päivän varmuuskopiot. Lisäksi kopio siirretään salattua yhteyttä pitkin tietokoneellemme, jossa sitä säilytetään enintään 14 päivää; sieltä se salataan avaimellamme (<span class="nb">AES-256</span>) ja säilytetään Oraclen pilvipalvelun (Oracle Cloud Infrastructure) datakeskuksessa Tukholmassa (Ruotsi). Oracle säilyttää vain salatun tiedoston eikä näe sen sisältöä.</li>
       <li>Verkkokaupan maksut käsittelee Stripe (Stripe Payments Europe Ltd, Irlanti), joka saa tilauksen ja maksun tiedot (kohta 2.9). Stripe käsittelee tietoja myös itsenäisenä rekisterinpitäjänä, esimerkiksi petosten estämiseksi.</li>
       <li>Paketin toimittamista varten luovutamme nimesi, puhelinnumerosi, sähköpostiosoitteesi ja pakettiautomaatin Omnivalle (AS Eesti Post).</li>
       <li>Verkkosivuston käyntejä koskevat tekniset tiedot näkee sivuston isännöintipalvelun tarjoaja GitHub Inc. (kohta 2.11).</li>
