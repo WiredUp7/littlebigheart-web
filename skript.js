@@ -279,3 +279,21 @@
   if (plainBtn && plainBtn.parentNode) plainBtn.parentNode.removeChild(plainBtn);
   if (stepper) stepper.hidden = false;
 })();
+
+// Külastuste statistika: Cloudflare Web Analytics (küpsisteta, koondarvud). Ainult päris domeenil,
+// et eelvaade ja testid statistikat ei risustaks. ?notrack=1 jätab selle brauseri jäädavalt välja
+// (oma kontrollkülastused), ?notrack=0 lülitab tagasi.
+(function () {
+  if (location.hostname !== 'littlebigheart.store') return;
+  try {
+    var p = new URLSearchParams(location.search).get('notrack');
+    if (p === '1') localStorage.setItem('lbh_notrack', '1');
+    else if (p === '0') localStorage.removeItem('lbh_notrack');
+    if (localStorage.getItem('lbh_notrack') === '1') return;
+  } catch (e) {}
+  var s = document.createElement('script');
+  s.defer = true;
+  s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+  s.setAttribute('data-cf-beacon', '{"token": "6191584bee094b7dac868cccf1211be1"}');
+  document.head.appendChild(s);
+})();
